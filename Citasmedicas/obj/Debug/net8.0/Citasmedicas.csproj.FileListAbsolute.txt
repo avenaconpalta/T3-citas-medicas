@@ -1,0 +1,14 @@
+C:\Users\Will\Desktop\T3\Citasmedicas\Citasmedicas\bin\Debug\net8.0\Citasmedicas.exe
+C:\Users\Will\Desktop\T3\Citasmedicas\Citasmedicas\bin\Debug\net8.0\Citasmedicas.deps.json
+C:\Users\Will\Desktop\T3\Citasmedicas\Citasmedicas\bin\Debug\net8.0\Citasmedicas.runtimeconfig.json
+C:\Users\Will\Desktop\T3\Citasmedicas\Citasmedicas\bin\Debug\net8.0\Citasmedicas.dll
+C:\Users\Will\Desktop\T3\Citasmedicas\Citasmedicas\bin\Debug\net8.0\Citasmedicas.pdb
+C:\Users\Will\Desktop\T3\Citasmedicas\Citasmedicas\obj\Debug\net8.0\Citasmedicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\Desktop\T3\Citasmedicas\Citasmedicas\obj\Debug\net8.0\Citasmedicas.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\T3\Citasmedicas\Citasmedicas\obj\Debug\net8.0\Citasmedicas.AssemblyInfo.cs
+C:\Users\Will\Desktop\T3\Citasmedicas\Citasmedicas\obj\Debug\net8.0\Citasmedicas.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\T3\Citasmedicas\Citasmedicas\obj\Debug\net8.0\Citasmedicas.dll
+C:\Users\Will\Desktop\T3\Citasmedicas\Citasmedicas\obj\Debug\net8.0\refint\Citasmedicas.dll
+C:\Users\Will\Desktop\T3\Citasmedicas\Citasmedicas\obj\Debug\net8.0\Citasmedicas.pdb
+C:\Users\Will\Desktop\T3\Citasmedicas\Citasmedicas\obj\Debug\net8.0\Citasmedicas.genruntimeconfig.cache
+C:\Users\Will\Desktop\T3\Citasmedicas\Citasmedicas\obj\Debug\net8.0\ref\Citasmedicas.dll
